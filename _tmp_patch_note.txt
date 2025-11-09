@@ -1,0 +1,1 @@
+Patch to remove gallery links and replace gallery.html with redirect.
